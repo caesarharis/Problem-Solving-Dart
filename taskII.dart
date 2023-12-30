@@ -1,3 +1,4 @@
+
 /* # Task 2
 
 Create a function that takes a string as input and returns
